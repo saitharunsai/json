@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "title": "css",
+      "body": "saidt dhdd",
+      "author": "saitgagg",
+      "related": "Angular",
+      "time": "16/03/2021",
+      "id": 1
+    },
+    {
+      "title": "zsfdasfasf",
+      "body": "sas",
+      "author": "saitharunsai",
+      "related": "Angular",
+      "time": "16/03/2021",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
